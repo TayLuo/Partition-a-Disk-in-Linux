@@ -73,9 +73,10 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
  
  9. Format the New Partition: 
 
-   After partitioning, you need to format the new partition with a file system.
+
+    After partitioning, you need to format the new partition with a file system.
  
-   For example, to format a partition as ext4, use:
+    For example, to format a partition as ext4, use:
     
     
     
