@@ -5,14 +5,13 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
 
  1. Identify the disk:
 
-     First, you need to identify the disk you want to partition. You can use the lsblk or fdisk -l command to list available disks and partitions:
+     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
      Run the Following Command: sudo fdisk -l
 <p align="center">
 <img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
 
 
-  2. After updating, run the following command to install ClamAV:
+  2. I am adding a virtual disk on Azure:
 
-      sudo apt-get install clamav clamav-daemon
 <p align="center">
-<img src="https://imgur.com/gTy6uns.png" height="80%" width="80%" >
+<img src="https://imgur.com/l7WUlQF.png" height="80%" width="80%" >
