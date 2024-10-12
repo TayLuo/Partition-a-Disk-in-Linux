@@ -23,12 +23,12 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
 <p align="center">
 <img src="https://imgur.com/i3Owace.png" height="80%" width="80%" >
 
- 1. Identify the disk:
+ 4. Launch the Partitioning Tool:
 
-     First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
-     Run the Following Command: sudo fdisk -l
+    This command opens the fdisk utility for the specified disk (/dev/sdc in this example).
+    sudo fdisk /dev/sdc
 <p align="center">
-<img src="https://imgur.com/uYSnwkH.png" height="80%" width="80%" >
+<img src="https://imgur.com/iS5goDv.png" height="80%" width="80%" >
 
 
  1. Identify the disk:
