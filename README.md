@@ -26,6 +26,7 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
  4. Launch the Partitioning Tool:
 
     This command opens the fdisk utility for the specified disk (/dev/sdc in this example).
+
     sudo fdisk /dev/sdc
 <p align="center">
 <img src="https://imgur.com/iS5goDv.png" height="80%" width="80%" >
