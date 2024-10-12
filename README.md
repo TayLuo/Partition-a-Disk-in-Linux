@@ -42,7 +42,7 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
 <img src="https://imgur.com/DRtJi4L.png" height="80%" width="80%" >
 
 
- 1. Identify the disk:
+ 6. Identify the disk:
 
      First, you need to identify the disk you want to partition. You can use the "sudo fdisk -l" command to list available disks and partitions:
      Run the Following Command: sudo fdisk -l
