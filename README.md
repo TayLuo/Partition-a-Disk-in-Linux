@@ -85,16 +85,9 @@ Partitioning a disk in Linux involves dividing a physical disk into logical segm
 
 10. Mount the New Partition: 
 
-   You can now mount the partition to a directory to start using it. 
+    You can now mount the partition to a directory to start using it. 
    
-   This mounts the newly created partition to the desired directory path.
+    This mounts the newly created partition to the desired directory path.
 <p align="center">
 <img src="https://imgur.com/rYCqnkk.png" height="80%" width="80%" >
-6. Create a New Partition: 
 
-    Use this command to create a new partition (inside fdisk):
-    
-    
-     Run the Following Command: n
-<p align="center">
-<img src="https://imgur.com/DRtJi4L.png" height="80%" width="80%" >
